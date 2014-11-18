@@ -11,7 +11,7 @@ Example product search and detail pages.
 
 ## Prerequisites
 
-Node.js 0.10.3 or newer. This can be downloaded from (http://nodejs.org/download/)[http://nodejs.org/download/].
+Node.js 0.10.3 or newer. This can be downloaded from http://nodejs.org/download/.
 
 ## Installation
 
