@@ -19,10 +19,10 @@ Node.js 0.10.3 or newer. This can be downloaded from http://nodejs.org/download/
 git clone https://github.com/glan/nordstrom.git
 ```
 
-## Starting server
+## Starting the servers
 
 ```bash
-cd nordstrom
+cd ./nordstrom
 npm start
 ```
 
