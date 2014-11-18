@@ -30,7 +30,7 @@ npm start
 
 ## Products service
 
-The products service runs on port 3001 and can be started as follows:
+The products service runs on port `3001` and can be started as follows:
 
 ```bash
 cd ./productService
@@ -42,13 +42,13 @@ node server.js
 The service provides the following endpoints:
 
 - *GET* **/products** - Returns a JSON array for all the products
-- *GET* **/brands* - Returns products grouped by brand (for possible future use)
+- *GET* **/brands** - Returns products grouped by brand (for possible future use)
 
 A `*` CORS header is also added to responses to allow cross domain access.
 
 ## Client website
 
-The web client runs on port 3000 and can be started as follows:
+The web client runs on port `3000` and can be started as follows:
 
 ```bash
 cd ./webClient
