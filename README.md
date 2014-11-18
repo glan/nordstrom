@@ -41,7 +41,7 @@ node server.js
 
 The service provides the following endpoints:
 
-- *GET* **/products** - Returns a JSON array for all the products
+- *GET* **/products** - Returns a JSON array of all the products
 - *GET* **/brands** - Returns products grouped by brand (for possible future use)
 
 A `*` CORS header is also added to responses to allow cross domain access.
