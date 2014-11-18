@@ -1,0 +1,12 @@
+<ul class="search-results">
+{{#each []}}
+    <li class="product">
+        <a href="#/product/{{this.style_id}}">
+            <img src="http://g.nordstromimage.com/imagegallery/store/product/medium/{{this.image_url}}.jpg" alt="" />
+        </a>
+        <p>{{this.formatted_regular_price}}</p>
+        <p>{{this.name}}</p>
+        <p>{{this.brand}}</p>
+    </li>
+{{/each}}
+</ul>
