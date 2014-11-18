@@ -57,11 +57,17 @@ node server.js
 
 ### Building Javascript and CSS assets
 
-These assets can be built from source using the `gulp` build too.
+These assets can be built from source using the `gulp` build tool.
 
 ```bash
 cd ./webClient
 gulp
+```
+
+Note: If `gulp` not installed you'll need to first run:
+
+```bash
+npm install gulp -g
 ```
 
 ## Notes
