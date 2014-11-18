@@ -26,7 +26,7 @@ cd ./nordstrom
 npm start
 ```
 
-**Visit:** http://localhost:3000/
+**Visit:** [http://localhost:3000/](http://localhost:3000/)
 
 ## Products service
 
